@@ -1,6 +1,7 @@
 #User Authentication and Authorization System
 
-Project Description: Develop a user authentication and authorization system using Spring Boot and Spring Security.
+Project Description:
+Develop a user authentication and authorization system using Spring Boot and Spring Security.
 Requirements:
 Implement user registration and login functionalities.
 Secure endpoints using JWT (JSON Web Token).
